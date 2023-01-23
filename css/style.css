@@ -1,0 +1,17 @@
+.dark-text a{
+    color:black;
+    font-weight: 500;
+}
+.custom-primary-btn{
+    color:white!important;
+    background-color: #E76F51;
+    padding:.5rem 1.5rem;
+
+}
+.custom-primary-btn:hover{
+    background-color: #ea3609;
+}
+.rating-icons{
+    width:20px;
+    height: 20px;
+}
